@@ -1,10 +1,10 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Baltazar Bieniek
+description: Software Development Manager
 
-baseurl: /gradfolio #name of GitHub repository
-url: #custom url to be used instead of GitHub repository
+baseurl:  #name of GitHub repository
+url: https://bbieniek.github.io #custom url to be used instead of GitHub repository
 email: #
 
 
@@ -19,8 +19,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 facebook: "#"
 twitter: "#"
-linkedin: "#"
-github: "#"
+linkedin: "https://www.linkedin.com/in/baltazar-bieniek-a24a6254/"
+github: "https://github.com/bbieniek"
 researchgate: "#"
 orcid: "#"
 
@@ -28,7 +28,7 @@ highlighter: rouge
 markdown: kramdown
 
 # Tracker
-analytics:
+analytics: G-5CHYG1VLHW
 
 #optimization -> compress.html
 compress_html:
